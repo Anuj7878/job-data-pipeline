@@ -56,6 +56,8 @@ job-data-pipeline/
 
 ![Skills Demand](graph.png)
 
+<img width="798" height="633" alt="image" src="https://github.com/user-attachments/assets/fffbf090-ecf4-4c02-b466-d977131ddd73" />
+
 
 
 
