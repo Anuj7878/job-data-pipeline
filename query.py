@@ -4,10 +4,10 @@ conn = sqlite3.connect("jobs.db")
 cursor = conn.cursor()
 
 query = """
-SELECT skills, COUNT(*) as count
-FROM jobs
-GROUP BY skills
-ORDER BY count DESC;
+SELECT skills, COUNT(*) 
+FROM jobs 
+GROUP BY skills 
+ORDER BY COUNT(*) DESC;
 """
 
 cursor.execute(query)
